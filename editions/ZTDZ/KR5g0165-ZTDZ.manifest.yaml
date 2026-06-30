@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0165/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0165/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清高上滅魔玉帝神慧玉清隱書
+  date: '2015-08-29 02:59:27.249342'
+  source:
+    repository: kanripo
+    path: KR5g0165
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0165_000-ZTDZ.yaml, hash: 'sha256:b3dd9b8cc956acac0dd698b3e3f463ac6bb1fe36213a9caf4b1ed1ba1a600576'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0165_000-ZTDZ.markers.yaml, hash: 'sha256:e257f09d368dc9da8bb46852ee1e403c71d2875edf1445bd94e45fb2285f52bb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0165_SJB_000-330762c
+    span:
+    - body
+    - 0
+    - 4426
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:98c78c9455c64b325f677837ca7755e0e2220ce17763c2c70ca5d7e94a625a6a
